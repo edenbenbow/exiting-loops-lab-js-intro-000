@@ -15,9 +15,8 @@ for(let i = 0; i < array.length; i++) {
 if(array[i] !== skipvalue) {
   array[i] = changeValue;
 }
-else{
-  break;
-}
-}
+else if{array[i] = skipValue}
 return array;
+}
+}
 }
