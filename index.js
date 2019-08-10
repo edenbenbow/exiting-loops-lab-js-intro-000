@@ -3,4 +3,5 @@ function breakOut(array, changeValue, stopValue) {
   if (array[i] = stopValue )
   break
 }
+return breakOut
 }
