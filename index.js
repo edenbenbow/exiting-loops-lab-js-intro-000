@@ -7,4 +7,5 @@ else{
   break;
 }
 }
+return array;
 }
