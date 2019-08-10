@@ -17,7 +17,7 @@ if(array[i] !== skipValue) {
 }
 return changeValue
 
-else if(array[i] = skipValue)
+else if(array[i] = skipValue);
 return array;
 }
 }
