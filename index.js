@@ -4,5 +4,4 @@ function breakOut(array, changeValue, stopValue) {
   array = changeValue
   break
 }
-return breakOut
 }
