@@ -9,3 +9,7 @@ else{
 }
 return array;
 }
+
+function keepGoing(array, changeValue, skipValue) {
+
+}
