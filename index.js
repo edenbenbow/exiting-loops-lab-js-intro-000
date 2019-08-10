@@ -12,9 +12,9 @@ return array;
 
 function keepGoing(array, changeValue, skipValue) {
 for(let i = 0; i < array.length; i++) {
-if(array[i] !== skipvalue) {
-  array[i] = changeValue;
-}
+if(array[i] !== skipvalue) 
+return changeValue
+
 else if{array[i] = skipValue}
 return array;
 }
