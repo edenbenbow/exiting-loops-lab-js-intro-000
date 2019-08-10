@@ -19,3 +19,5 @@ array[i] = changeValue;
 }
 return array;
 }
+
+function findBy()
