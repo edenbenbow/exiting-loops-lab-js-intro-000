@@ -1,7 +1,6 @@
 function breakOut(array, changeValue, stopValue) {
   for (i = 0; i < array.length; i++) {
-  if (array[i] !-= stopValue ) {
-  array = changeValue
-  break
+  if (array[i] !== stopValue ) {
+return changeValue
 }
 }
