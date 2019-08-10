@@ -19,4 +19,3 @@ else if(array[i] = skipValue)
 return array;
 }
 }
-}
