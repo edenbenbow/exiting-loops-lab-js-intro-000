@@ -20,4 +20,4 @@ array[i] = changeValue;
 return array;
 }
 
-function findBy(array, FindFn)
+function findBy(array, findFn)
